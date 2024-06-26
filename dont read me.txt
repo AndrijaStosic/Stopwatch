@@ -1,2 +1,42 @@
-NPC 
-whoever moves first is gay
+this aplication is made using Tkinter's GUI 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS:
+Whoever moves first is gay
+
+
+
+
