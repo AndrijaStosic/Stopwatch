@@ -1,4 +1,5 @@
 from tkinter import *
+#this is on Serbian
 
 prozor = Tk()
 prozor.config(bg="peachpuff")
